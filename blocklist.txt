@@ -1,0 +1,134 @@
+# Блок-лист рекламных доменов
+# Один домен на строку, без протокола
+# Комментарии начинаются с #
+
+# Рекламные сети
+doubleclick.net
+googlesyndication.com
+googleadservices.com
+google-analytics.com
+googletagmanager.com
+googletagservices.com
+
+# Facebook/Meta реклама
+facebook.com
+facebook.net
+fbcdn.net
+connect.facebook.net
+staticxx.facebook.com
+
+# Популярные рекламные домены
+ad.doubleclick.net
+ads.yahoo.com
+ads.bing.com
+ads.linkedin.com
+ads.twitter.com
+ads.reddit.com
+adservice.google.com
+pagead2.googlesyndication.com
+
+# Трекинг и аналитика
+tracking.com
+analytics.google.com
+stats.g.doubleclick.net
+pixel.facebook.com
+t.co
+bit.ly
+
+# Рекламные сети и баннеры
+adbrite.com
+adform.net
+admob.com
+adnxs.com
+adsafeprotected.com
+adtechus.com
+advertising.com
+amazon-adsystem.com
+bidswitch.net
+casalemedia.com
+criteo.com
+exponential.com
+openx.net
+outbrain.com
+pubmatic.com
+rubiconproject.com
+scorecardresearch.com
+taboola.com
+tpc.googlesyndication.com
+turn.com
+yieldmo.com
+
+# Российские рекламные сети
+adfox.ru
+adriver.ru
+advertur.ru
+begun.ru
+directadvert.ru
+marketgid.com
+medialand.ru
+recreativ.ru
+relap.io
+rotaban.ru
+sape.ru
+tradedoubler.com
+video.rutarget.ru
+yandex.ru
+
+# Счетчики и метрики
+counter.yadro.ru
+mc.yandex.ru
+top100.rambler.ru
+top.mail.ru
+informer.yandex.ru
+
+# Трекинг пользователей
+adtraction.com
+mixpanel.com
+segment.com
+amplitude.com
+hotjar.com
+mouseflow.com
+quantcast.com
+kissmetrics.com
+
+# Вредоносные и подозрительные
+malware.com
+spyware.net
+trojan.org
+phishing.net
+
+# Pop-up и агрессивная реклама
+popads.net
+popcash.net
+propellerads.com
+zeroredirect.com
+adcash.com
+
+# Социальные кнопки (опционально, можно закомментировать)
+# platform.twitter.com
+# platform.linkedin.com
+# widgets.pinterest.com
+
+# CDN для рекламы
+cdn.taboola.com
+cdn.adsafeprotected.com
+cdn.advertising.com
+
+# Дополнительные домены
+2mdn.net
+adcolony.com
+adjust.com
+applovin.com
+chartbeat.com
+chartbeat.net
+cloudfront.net
+contextweb.com
+crashlytics.com
+flurry.com
+intellitxt.com
+serving-sys.com
+smartadserver.com
+unity3d.com
+
+
+
